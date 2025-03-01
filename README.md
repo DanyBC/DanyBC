@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lqbmVvdWZtM3N0YjV4Z3h2b2JtY3Q3eW1vb2R1d2YzZWFzM3Q4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">  
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=790b76115ymw36pbpkqkk19mo3aid08r4mquihj46fqb1vzj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">  
   <h1>Danylo Berti | Aspirante a Cibersegurança</h1>
   <p>🔥 Ex-chefe de cozinha em transição para defender redes e sistemas</p>
 
@@ -31,8 +31,8 @@
 ---
 
 ### **📚 APRENDIZADO CONTÍNUO**  
-- **Cursando:** Faculdade de Defesa Cibernética (Estácio)  
-- **Certificações:** Bootcamp Santander Cibersegurança, Hackers do Bem  
+- **Cursando:** Faculdade de Defesa Cibernética (Estácio) Segundo semestre - final em 12/2026
+- **Certificações:** Bootcamp Santander Cibersegurança, Hackers do Bem níveis básico e Nivelamento 
 - **Desafios Atuais:**  
   - Completar 50+ salas no TryHackMe  
   - Desenvolver um scanner de vulnerabilidades em Python  
