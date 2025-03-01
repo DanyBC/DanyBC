@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=790b76115ymw36pbpkqkk19mo3aid08r4mquihj46fqb1vzj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">  
-  <h1>Danylo Berti | Aspirante a Cibersegurança</h1>
-  <p>🔥 Ex-chefe de cozinha em transição para defender redes e sistemas</p>
+  <h1>Danylo Berti | Estudante de Cibersegurança e Ethical Hacking</h1>
+  <p>🔥 Chefe de cozinha em transição para defender redes e sistemas</p>
 
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
