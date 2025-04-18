@@ -16,7 +16,7 @@
 ### **📌 PROJETOS DESTACADOS**  
 | Repositório | Descrição |  
 |-------------|-----------|  
-| [🔒 Pentest Lab](https://github.com/DanyBC/Pentest-Lab) | Ambiente virtual para testes de invasão com Metasploit e Nmap |  
+| [🔒 Pentest Lab](https://github.com/DanyBC/Pentest-Metasploitable-vsftpd) | Ambiente virtual para testes de invasão com Metasploit e Nmap |  
 | [📡 VPN Segura](https://github.com/DanyBC/VPN-WireGuard) | Implementação de VPN usando WireGuard para comunicações criptografadas |  
 | [🕵️ Análise de Malware](https://github.com/DanyBC/Malware-Analysis) | Estudo de amostras em ambiente controlado (relatórios em PDF) |  
 
