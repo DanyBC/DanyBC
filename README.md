@@ -8,7 +8,7 @@
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A9?logo=wireshark&logoColor=white)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/danylocybersec/)
- # [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme)](https://tryhackme.com/p/seu-perfil)
+ <!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme)](https://tryhackme.com/p/seu-perfil) -->
 </div>
 
 ---
